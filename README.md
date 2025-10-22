@@ -1,6 +1,6 @@
-# 📰 NewsTagger v1
+# 📰 NewsTagger
 
-Tiny, explainable tooling to **download**, **tag**, and **summarize** a small news corpus. 
+Tiny, explainable tooling to **download**, **tag** news titles. 
 
 ## What it does
 - Fetches news via **NewsData.io** → `.txt` files in `./data`

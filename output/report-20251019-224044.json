@@ -1,0 +1,1456 @@
+[
+  {
+    "file": "AR_001.txt",
+    "title": "Carolina Amoroso reveló el apodo que le puso a su hijo y sorprendió a Mirtha Legrand",
+    "category": "General",
+    "category_reason": "fallback:General",
+    "category_score": 0,
+    "category_hits": {},
+    "most_frequent_words": [
+      "carolina",
+      "amoroso",
+      "revelo",
+      "apodo",
+      "puso",
+      "hijo",
+      "sorprendio",
+      "mirtha",
+      "legrand"
+    ],
+    "entities": [
+      "Carolina Amoroso",
+      "Mirtha Legrand"
+    ],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "AR_002.txt",
+    "title": "Alerta por el impresionante \"ojos en el cielo\", la nave que puede llevar a la Fuerza Aérea Argentina a convertirse en una potencia regional",
+    "category": "Technology",
+    "category_reason": "strong_keyword:ia",
+    "category_score": 1,
+    "category_hits": {
+      "Technology": [
+        "ia"
+      ]
+    },
+    "most_frequent_words": [
+      "alerta",
+      "impresionante",
+      "ojos",
+      "cielo",
+      "nave",
+      "puede",
+      "llevar",
+      "fuerza",
+      "rea",
+      "argentina",
+      "convertirse",
+      "potencia"
+    ],
+    "entities": [
+      "Fuerza Ae"
+    ],
+    "gpe": [
+      "argentina"
+    ],
+    "dates": []
+  },
+  {
+    "file": "AR_003.txt",
+    "title": "Desde ser ‘chimba’ a estar ‘chimbo’, está es la palabra que los colombianos usan para todo",
+    "category": "Technology",
+    "category_reason": "strong_keyword:ia",
+    "category_score": 1,
+    "category_hits": {
+      "Technology": [
+        "ia"
+      ]
+    },
+    "most_frequent_words": [
+      "desde",
+      "chimba",
+      "estar",
+      "chimbo",
+      "palabra",
+      "colombianos",
+      "usan",
+      "todo"
+    ],
+    "entities": [],
+    "gpe": [
+      "colombia"
+    ],
+    "dates": []
+  },
+  {
+    "file": "AR_004.txt",
+    "title": "Enfrentamiento entre \"Hells Angels y \"Los Tehuelches\": 13 demorados, tres heridos y armas incautadas",
+    "category": "General",
+    "category_reason": "fallback:General",
+    "category_score": 0,
+    "category_hits": {},
+    "most_frequent_words": [
+      "enfrentamiento",
+      "entre",
+      "hells",
+      "angels",
+      "tehuelches",
+      "demorados",
+      "tres",
+      "heridos",
+      "armas",
+      "incautadas"
+    ],
+    "entities": [
+      "Hells Angels"
+    ],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "AR_005.txt",
+    "title": "Chimbas celebró a las madres con una feria llena de arte, cultura y emoción",
+    "category": "Culture/Entertainment",
+    "category_reason": "score>=2 (5)",
+    "category_score": 5,
+    "category_hits": {
+      "Technology": [
+        "ia"
+      ],
+      "Culture/Entertainment": [
+        "cultura",
+        "arte",
+        "art",
+        "cultura",
+        "arte"
+      ]
+    },
+    "most_frequent_words": [
+      "chimbas",
+      "celebro",
+      "madres",
+      "feria",
+      "llena",
+      "arte",
+      "cultura",
+      "emocio"
+    ],
+    "entities": [],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "BR_001.txt",
+    "title": "Así es como tres países de Sudamérica apuntan a desafiar el dominio del aguacate de México",
+    "category": "Technology",
+    "category_reason": "score>=2 (2)",
+    "category_score": 2,
+    "category_hits": {
+      "Technology": [
+        "ia",
+        "ai"
+      ]
+    },
+    "most_frequent_words": [
+      "asi",
+      "tres",
+      "pai",
+      "ses",
+      "sudame",
+      "rica",
+      "apuntan",
+      "desafiar",
+      "dominio",
+      "aguacate",
+      "xico"
+    ],
+    "entities": [],
+    "gpe": [
+      "mexico"
+    ],
+    "dates": []
+  },
+  {
+    "file": "BR_002.txt",
+    "title": "Elecciones Bolivia 2025: el voto joven, clave para la elección del presidente",
+    "category": "Politics",
+    "category_reason": "score>=2 (4)",
+    "category_score": 4,
+    "category_hits": {
+      "Politics": [
+        "presidente",
+        "elecciones",
+        "president",
+        "presidente"
+      ],
+      "Technology": [
+        "ia"
+      ]
+    },
+    "most_frequent_words": [
+      "elecciones",
+      "bolivia",
+      "voto",
+      "joven",
+      "clave",
+      "eleccio",
+      "presidente"
+    ],
+    "entities": [
+      "Elecciones Bolivia"
+    ],
+    "gpe": [],
+    "dates": [
+      "2025"
+    ]
+  },
+  {
+    "file": "BR_003.txt",
+    "title": "RAPT Therapeutics divulgará dados de ensaio de fase 2 para medicamento contra urticária",
+    "category": "Technology",
+    "category_reason": "score>=2 (3)",
+    "category_score": 3,
+    "category_hits": {
+      "Technology": [
+        "ia",
+        "ai",
+        "dados"
+      ]
+    },
+    "most_frequent_words": [
+      "rapt",
+      "therapeutics",
+      "divulgara",
+      "dados",
+      "ensaio",
+      "fase",
+      "medicamento",
+      "contra",
+      "urtica",
+      "ria"
+    ],
+    "entities": [],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "BR_004.txt",
+    "title": "Bolivia elige presidente en medio de una de sus peores crisis económicas",
+    "category": "Politics",
+    "category_reason": "score>=2 (3)",
+    "category_score": 3,
+    "category_hits": {
+      "Politics": [
+        "presidente",
+        "president",
+        "presidente"
+      ],
+      "Technology": [
+        "ia"
+      ]
+    },
+    "most_frequent_words": [
+      "bolivia",
+      "elige",
+      "presidente",
+      "medio",
+      "peores",
+      "crisis",
+      "econo",
+      "micas"
+    ],
+    "entities": [],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "BR_005.txt",
+    "title": "Informe revela cuál es el estado de EE.UU. más caro para tener carro",
+    "category": "General",
+    "category_reason": "fallback:General",
+    "category_score": 0,
+    "category_hits": {},
+    "most_frequent_words": [
+      "informe",
+      "revela",
+      "cua",
+      "estado",
+      "caro",
+      "tener",
+      "carro"
+    ],
+    "entities": [],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "CL_001.txt",
+    "title": "Senador Coloma por dichos de Republicanos sobre Jaime Guzmán: “Hay un abuso cuando se usa un símbolo de otro partido”",
+    "category": "Politics",
+    "category_reason": "score>=2 (4)",
+    "category_score": 4,
+    "category_hits": {
+      "Politics": [
+        "partido",
+        "senado",
+        "partido",
+        "senado"
+      ],
+      "Technology": [
+        "ai"
+      ],
+      "Sports": [
+        "partido"
+      ],
+      "Culture/Entertainment": [
+        "art"
+      ]
+    },
+    "most_frequent_words": [
+      "senador",
+      "coloma",
+      "dichos",
+      "republicanos",
+      "sobre",
+      "jaime",
+      "guzma",
+      "hay",
+      "abuso",
+      "cuando",
+      "usa",
+      "mbolo"
+    ],
+    "entities": [
+      "Senador Coloma",
+      "Jaime Guzma"
+    ],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "CL_002.txt",
+    "title": "Con medalla bajo el brazo: Team Chile Femenino de Tenis de Mesa clasifica a Mundial de Londres 2026",
+    "category": "Sports",
+    "category_reason": "score>=2 (3)",
+    "category_score": 3,
+    "category_hits": {
+      "Technology": [
+        "ia"
+      ],
+      "Sports": [
+        "tenis",
+        "mundial",
+        "team"
+      ]
+    },
+    "most_frequent_words": [
+      "medalla",
+      "bajo",
+      "brazo",
+      "team",
+      "chile",
+      "femenino",
+      "tenis",
+      "mesa",
+      "clasifica",
+      "mundial",
+      "londres"
+    ],
+    "entities": [
+      "Team Chile Femenino"
+    ],
+    "gpe": [
+      "chile"
+    ],
+    "dates": [
+      "2026"
+    ]
+  },
+  {
+    "file": "CL_003.txt",
+    "title": "Parricidio y posterior suicidio: encuentran a un padre y sus dos hijos muertos en la RM",
+    "category": "General",
+    "category_reason": "fallback:General",
+    "category_score": 0,
+    "category_hits": {},
+    "most_frequent_words": [
+      "parricidio",
+      "posterior",
+      "suicidio",
+      "encuentran",
+      "padre",
+      "dos",
+      "hijos",
+      "muertos"
+    ],
+    "entities": [],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "CL_004.txt",
+    "title": "Biministro García descarta ley corta para agilizar devoluciones por cobros excesivos en cuentas de luz",
+    "category": "Politics",
+    "category_reason": "score>=2 (2)",
+    "category_score": 2,
+    "category_hits": {
+      "Politics": [
+        "ministro",
+        "ministro"
+      ],
+      "Technology": [
+        "ia"
+      ],
+      "Culture/Entertainment": [
+        "art"
+      ]
+    },
+    "most_frequent_words": [
+      "biministro",
+      "garci",
+      "descarta",
+      "ley",
+      "corta",
+      "agilizar",
+      "devoluciones",
+      "cobros",
+      "excesivos",
+      "cuentas",
+      "luz"
+    ],
+    "entities": [
+      "Biministro Garci"
+    ],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "CL_005.txt",
+    "title": "Trump acusó a Petro de ser \"líder del narcotráfico\": qué respondió el presidente de Colombia",
+    "category": "Politics",
+    "category_reason": "score>=2 (3)",
+    "category_score": 3,
+    "category_hits": {
+      "Politics": [
+        "presidente",
+        "president",
+        "presidente"
+      ],
+      "Technology": [
+        "ia"
+      ],
+      "Crime/Law": [
+        "narcotrafico"
+      ]
+    },
+    "most_frequent_words": [
+      "trump",
+      "acuso",
+      "petro",
+      "der",
+      "narcotra",
+      "fico",
+      "respondio",
+      "presidente",
+      "colombia"
+    ],
+    "entities": [],
+    "gpe": [
+      "colombia"
+    ],
+    "dates": []
+  },
+  {
+    "file": "CO_001.txt",
+    "title": "El Optimilk DOJO Arena echa el cierre en un domingo lleno de emotividad",
+    "category": "General",
+    "category_reason": "fallback:General",
+    "category_score": 0,
+    "category_hits": {},
+    "most_frequent_words": [
+      "optimilk",
+      "dojo",
+      "arena",
+      "echa",
+      "cierre",
+      "domingo",
+      "lleno",
+      "emotividad"
+    ],
+    "entities": [],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "CO_002.txt",
+    "title": "Desde ser ‘chimba’ a estar ‘chimbo’, está es la palabra que los colombianos usan para todo",
+    "category": "Technology",
+    "category_reason": "strong_keyword:ia",
+    "category_score": 1,
+    "category_hits": {
+      "Technology": [
+        "ia"
+      ]
+    },
+    "most_frequent_words": [
+      "desde",
+      "chimba",
+      "estar",
+      "chimbo",
+      "palabra",
+      "colombianos",
+      "usan",
+      "todo"
+    ],
+    "entities": [],
+    "gpe": [
+      "colombia"
+    ],
+    "dates": []
+  },
+  {
+    "file": "CO_003.txt",
+    "title": "A anciano lo sorprendieron en su cama y lo mataron a tiros en Guacamayal",
+    "category": "Technology",
+    "category_reason": "strong_keyword:ia",
+    "category_score": 1,
+    "category_hits": {
+      "Technology": [
+        "ia"
+      ]
+    },
+    "most_frequent_words": [
+      "anciano",
+      "sorprendieron",
+      "cama",
+      "mataron",
+      "tiros",
+      "guacamayal"
+    ],
+    "entities": [],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "CO_004.txt",
+    "title": "Continúa la fecha 13 del Torneo Clausura: la agenda de los partidos del domingo",
+    "category": "Politics",
+    "category_reason": "score>=2 (2)",
+    "category_score": 2,
+    "category_hits": {
+      "Politics": [
+        "partido",
+        "partido"
+      ],
+      "Sports": [
+        "partido"
+      ],
+      "Culture/Entertainment": [
+        "art"
+      ]
+    },
+    "most_frequent_words": [
+      "continu",
+      "fecha",
+      "torneo",
+      "clausura",
+      "agenda",
+      "partidos",
+      "domingo"
+    ],
+    "entities": [
+      "Torneo Clausura"
+    ],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "CO_005.txt",
+    "title": "Fleetwood se lleva la victoria en el DP World India Championship con una exhibición de birdies",
+    "category": "Sports",
+    "category_reason": "score>=2 (2)",
+    "category_score": 2,
+    "category_hits": {
+      "Technology": [
+        "ia"
+      ],
+      "Sports": [
+        "victoria",
+        "championship"
+      ]
+    },
+    "most_frequent_words": [
+      "fleetwood",
+      "lleva",
+      "victoria",
+      "world",
+      "india",
+      "championship",
+      "exhibicio",
+      "birdies"
+    ],
+    "entities": [
+      "World India Championship"
+    ],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "CR_001.txt",
+    "title": "Violento tiroteo en San Sebastián cobró la vida de tres hombres",
+    "category": "Technology",
+    "category_reason": "strong_keyword:ia",
+    "category_score": 1,
+    "category_hits": {
+      "Technology": [
+        "ia"
+      ]
+    },
+    "most_frequent_words": [
+      "violento",
+      "tiroteo",
+      "san",
+      "sebastia",
+      "cobro",
+      "vida",
+      "tres",
+      "hombres"
+    ],
+    "entities": [
+      "San Sebastia"
+    ],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "CR_002.txt",
+    "title": "Trump suspende ayuda a Colombia y acusa a Petro de ser ‘líder del narcotráfico’",
+    "category": "Technology",
+    "category_reason": "strong_keyword:ia",
+    "category_score": 1,
+    "category_hits": {
+      "Technology": [
+        "ia"
+      ],
+      "Crime/Law": [
+        "narcotrafico"
+      ]
+    },
+    "most_frequent_words": [
+      "trump",
+      "suspende",
+      "ayuda",
+      "colombia",
+      "acusa",
+      "petro",
+      "der",
+      "narcotra",
+      "fico"
+    ],
+    "entities": [],
+    "gpe": [
+      "colombia"
+    ],
+    "dates": []
+  },
+  {
+    "file": "CR_003.txt",
+    "title": "Trump suspende “pagos y subsidios” a Colombia tras acusación de Petro contra EE.UU. por asesinato y violar soberanía",
+    "category": "Technology",
+    "category_reason": "strong_keyword:ia",
+    "category_score": 1,
+    "category_hits": {
+      "Technology": [
+        "ia"
+      ]
+    },
+    "most_frequent_words": [
+      "trump",
+      "suspende",
+      "pagos",
+      "subsidios",
+      "colombia",
+      "tras",
+      "acusacio",
+      "petro",
+      "contra",
+      "asesinato",
+      "violar",
+      "soberani"
+    ],
+    "entities": [],
+    "gpe": [
+      "colombia"
+    ],
+    "dates": []
+  },
+  {
+    "file": "CR_004.txt",
+    "title": "Cortes de luz a la vista: Conozca las suspensiones programadas para esta semana en Alajuela, Heredia, Cartago y San José",
+    "category": "Technology",
+    "category_reason": "strong_keyword:ia",
+    "category_score": 1,
+    "category_hits": {
+      "Technology": [
+        "ia"
+      ],
+      "Culture/Entertainment": [
+        "art"
+      ]
+    },
+    "most_frequent_words": [
+      "cortes",
+      "luz",
+      "vista",
+      "conozca",
+      "suspensiones",
+      "programadas",
+      "semana",
+      "alajuela",
+      "heredia",
+      "cartago",
+      "san",
+      "jose"
+    ],
+    "entities": [
+      "San Jose"
+    ],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "CR_005.txt",
+    "title": "Sujetos disparan a quemarropa contra hombre en Oreamuno de Cartago",
+    "category": "General",
+    "category_reason": "fallback:General",
+    "category_score": 1,
+    "category_hits": {
+      "Culture/Entertainment": [
+        "art"
+      ]
+    },
+    "most_frequent_words": [
+      "sujetos",
+      "disparan",
+      "quemarropa",
+      "contra",
+      "hombre",
+      "oreamuno",
+      "cartago"
+    ],
+    "entities": [],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "ES_001.txt",
+    "title": "Jesús Condenado se traslada a su nuevo templo en Cáceres: San Blas",
+    "category": "General",
+    "category_reason": "fallback:General",
+    "category_score": 0,
+    "category_hits": {},
+    "most_frequent_words": [
+      "jesu",
+      "condenado",
+      "traslada",
+      "nuevo",
+      "templo",
+      "ceres",
+      "san",
+      "blas"
+    ],
+    "entities": [
+      "San Blas"
+    ],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "ES_002.txt",
+    "title": "Calleja renueva como vicepresidente nacional de Centristas CCD",
+    "category": "Politics",
+    "category_reason": "score>=2 (3)",
+    "category_score": 3,
+    "category_hits": {
+      "Politics": [
+        "presidente",
+        "president",
+        "presidente"
+      ]
+    },
+    "most_frequent_words": [
+      "calleja",
+      "renueva",
+      "vicepresidente",
+      "nacional",
+      "centristas",
+      "ccd"
+    ],
+    "entities": [],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "ES_003.txt",
+    "title": "Una mujer advierte del fenómeno que está pasando en las pequeñas empresas de Alemania: \"Declive económico y moral\"",
+    "category": "Business",
+    "category_reason": "score>=2 (2)",
+    "category_score": 2,
+    "category_hits": {
+      "Business": [
+        "empresa",
+        "empresa"
+      ],
+      "Technology": [
+        "ia"
+      ]
+    },
+    "most_frequent_words": [
+      "mujer",
+      "advierte",
+      "feno",
+      "meno",
+      "pasando",
+      "pequen",
+      "empresas",
+      "alemania",
+      "declive",
+      "econo",
+      "mico",
+      "moral"
+    ],
+    "entities": [],
+    "gpe": [
+      "alemania"
+    ],
+    "dates": []
+  },
+  {
+    "file": "ES_004.txt",
+    "title": "Melilla revive su legado sefardí con una ruta por la historia y la cultura hebrea",
+    "category": "Culture/Entertainment",
+    "category_reason": "score>=2 (2)",
+    "category_score": 2,
+    "category_hits": {
+      "Technology": [
+        "ia"
+      ],
+      "Culture/Entertainment": [
+        "cultura",
+        "cultura"
+      ]
+    },
+    "most_frequent_words": [
+      "melilla",
+      "revive",
+      "legado",
+      "sefardi",
+      "ruta",
+      "historia",
+      "cultura",
+      "hebrea"
+    ],
+    "entities": [],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "ES_005.txt",
+    "title": "Antonio Trevín ya nombra el dique \"de su Llanes del alma\", tras un sencillo y emotivo acto junto a \"Los Cubos de la Memoria\", \"que llevan su huella\"",
+    "category": "Technology",
+    "category_reason": "strong_keyword:ia",
+    "category_score": 1,
+    "category_hits": {
+      "Technology": [
+        "ia"
+      ]
+    },
+    "most_frequent_words": [
+      "antonio",
+      "trevi",
+      "nombra",
+      "dique",
+      "llanes",
+      "alma",
+      "tras",
+      "sencillo",
+      "emotivo",
+      "acto",
+      "junto",
+      "cubos"
+    ],
+    "entities": [
+      "Antonio Trevi"
+    ],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "GB_001.txt",
+    "title": "Brian Harris obituary",
+    "category": "Technology",
+    "category_reason": "strong_keyword:ia",
+    "category_score": 1,
+    "category_hits": {
+      "Technology": [
+        "ia"
+      ]
+    },
+    "most_frequent_words": [
+      "brian",
+      "harris",
+      "obituary"
+    ],
+    "entities": [
+      "Brian Harris"
+    ],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "GB_002.txt",
+    "title": "Bouncy balls, points gaps & Honda Civics - how Celtic's dismal day unfolded",
+    "category": "General",
+    "category_reason": "fallback:General",
+    "category_score": 0,
+    "category_hits": {},
+    "most_frequent_words": [
+      "bouncy",
+      "balls",
+      "points",
+      "gaps",
+      "honda",
+      "civics",
+      "how",
+      "celtic",
+      "dismal",
+      "day",
+      "unfolded"
+    ],
+    "entities": [
+      "Honda Civics"
+    ],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "GB_003.txt",
+    "title": "Tapee Tea in Thai Tradition: Culture, Uses, Brewing, and Quality",
+    "category": "Technology",
+    "category_reason": "strong_keyword:ai",
+    "category_score": 1,
+    "category_hits": {
+      "Technology": [
+        "ai"
+      ],
+      "Sports": [
+        "win"
+      ],
+      "Culture/Entertainment": [
+        "culture"
+      ]
+    },
+    "most_frequent_words": [
+      "tapee",
+      "tea",
+      "thai",
+      "tradition",
+      "culture",
+      "uses",
+      "brewing",
+      "quality"
+    ],
+    "entities": [
+      "Tapee Tea",
+      "Thai Tradition"
+    ],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "GB_004.txt",
+    "title": "Man finishes work and cracks open a beer - but the next minute he was dead",
+    "category": "General",
+    "category_reason": "fallback:General",
+    "category_score": 0,
+    "category_hits": {},
+    "most_frequent_words": [
+      "man",
+      "finishes",
+      "work",
+      "cracks",
+      "open",
+      "beer",
+      "but",
+      "next",
+      "minute",
+      "was",
+      "dead"
+    ],
+    "entities": [],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "GB_005.txt",
+    "title": "Thomas Frank on the defensive as Tottenham slip to another home defeat",
+    "category": "General",
+    "category_reason": "fallback:General",
+    "category_score": 0,
+    "category_hits": {},
+    "most_frequent_words": [
+      "thomas",
+      "frank",
+      "defensive",
+      "tottenham",
+      "slip",
+      "another",
+      "home",
+      "defeat"
+    ],
+    "entities": [
+      "Thomas Frank"
+    ],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "MX_001.txt",
+    "title": "Las Vegas Raiders vs Kansas City Chiefs EN VIVO NFL Semana 7",
+    "category": "Technology",
+    "category_reason": "strong_keyword:ai",
+    "category_score": 1,
+    "category_hits": {
+      "Technology": [
+        "ai"
+      ],
+      "Crime/Law": [
+        "raid"
+      ]
+    },
+    "most_frequent_words": [
+      "vegas",
+      "raiders",
+      "kansas",
+      "city",
+      "chiefs",
+      "vivo",
+      "nfl",
+      "semana"
+    ],
+    "entities": [
+      "Kansas City Chiefs"
+    ],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "MX_002.txt",
+    "title": "Impulsa ‘Sonora Atiende’ el bienestar: Lorenia Valles",
+    "category": "Technology",
+    "category_reason": "strong_keyword:ia",
+    "category_score": 1,
+    "category_hits": {
+      "Technology": [
+        "ia"
+      ]
+    },
+    "most_frequent_words": [
+      "impulsa",
+      "sonora",
+      "atiende",
+      "bienestar",
+      "lorenia",
+      "valles"
+    ],
+    "entities": [
+      "Sonora Atiende",
+      "Lorenia Valles"
+    ],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "MX_003.txt",
+    "title": "Gobierno de Morena cobrará más por ahorrar, por consumir y ahora hasta por viajar con hijos, acusa Rubén Moreira",
+    "category": "General",
+    "category_reason": "fallback:General",
+    "category_score": 1,
+    "category_hits": {
+      "Politics": [
+        "gobierno"
+      ],
+      "Technology": [
+        "ia"
+      ]
+    },
+    "most_frequent_words": [
+      "gobierno",
+      "morena",
+      "cobrara",
+      "ahorrar",
+      "consumir",
+      "ahora",
+      "hasta",
+      "viajar",
+      "hijos",
+      "acusa",
+      "rube",
+      "moreira"
+    ],
+    "entities": [],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "MX_004.txt",
+    "title": "Gustavo Petro afirma que Donald Trump se engaña al considerarlo “líder del narcotráfico”",
+    "category": "General",
+    "category_reason": "fallback:General",
+    "category_score": 1,
+    "category_hits": {
+      "Crime/Law": [
+        "narcotrafico"
+      ]
+    },
+    "most_frequent_words": [
+      "gustavo",
+      "petro",
+      "afirma",
+      "donald",
+      "trump",
+      "engan",
+      "considerarlo",
+      "der",
+      "narcotra",
+      "fico"
+    ],
+    "entities": [
+      "Gustavo Petro",
+      "Donald Trump"
+    ],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "MX_005.txt",
+    "title": "Trump llama a Petro “líder del narcotráfico” y anuncia fin de ayuda financiera a Colombia",
+    "category": "Technology",
+    "category_reason": "strong_keyword:ia",
+    "category_score": 1,
+    "category_hits": {
+      "Technology": [
+        "ia"
+      ],
+      "Crime/Law": [
+        "narcotrafico"
+      ]
+    },
+    "most_frequent_words": [
+      "trump",
+      "llama",
+      "petro",
+      "der",
+      "narcotra",
+      "fico",
+      "anuncia",
+      "fin",
+      "ayuda",
+      "financiera",
+      "colombia"
+    ],
+    "entities": [],
+    "gpe": [
+      "colombia"
+    ],
+    "dates": []
+  },
+  {
+    "file": "PE_001.txt",
+    "title": "“El Reventonazo de la Chola” celebró sus 18 años con programa especial",
+    "category": "Technology",
+    "category_reason": "strong_keyword:ia",
+    "category_score": 1,
+    "category_hits": {
+      "Technology": [
+        "ia"
+      ]
+    },
+    "most_frequent_words": [
+      "reventonazo",
+      "chola",
+      "celebro",
+      "programa",
+      "especial"
+    ],
+    "entities": [],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "PE_002.txt",
+    "title": "Penal de Chincha: INPE rechaza amenazas contra el nuevo director por intento de traslado a alias \"Cabezón Pier\"",
+    "category": "Technology",
+    "category_reason": "strong_keyword:ia",
+    "category_score": 1,
+    "category_hits": {
+      "Technology": [
+        "ia"
+      ]
+    },
+    "most_frequent_words": [
+      "penal",
+      "chincha",
+      "inpe",
+      "rechaza",
+      "amenazas",
+      "contra",
+      "nuevo",
+      "director",
+      "intento",
+      "traslado",
+      "alias",
+      "cabezo"
+    ],
+    "entities": [],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "PE_003.txt",
+    "title": "Ejecutivo crea grupo de trabajo para evaluar apoyo económico a deudos y heridos tras protestas nacionales",
+    "category": "General",
+    "category_reason": "fallback:General",
+    "category_score": 0,
+    "category_hits": {},
+    "most_frequent_words": [
+      "ejecutivo",
+      "crea",
+      "grupo",
+      "trabajo",
+      "evaluar",
+      "apoyo",
+      "econo",
+      "mico",
+      "deudos",
+      "heridos",
+      "tras",
+      "protestas"
+    ],
+    "entities": [],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "PE_004.txt",
+    "title": "Kingo Táchira de HOY, 19 de octubre 2025: resultados del sorteo 146, números ganadores de la lotería y premio mayor vía Suerte TV",
+    "category": "Technology",
+    "category_reason": "strong_keyword:ia",
+    "category_score": 1,
+    "category_hits": {
+      "Technology": [
+        "ia"
+      ]
+    },
+    "most_frequent_words": [
+      "kingo",
+      "chira",
+      "hoy",
+      "octubre",
+      "resultados",
+      "sorteo",
+      "meros",
+      "ganadores",
+      "loteri",
+      "premio",
+      "mayor",
+      "suerte"
+    ],
+    "entities": [
+      "Kingo Ta"
+    ],
+    "gpe": [],
+    "dates": [
+      "2025"
+    ]
+  },
+  {
+    "file": "PE_005.txt",
+    "title": "Cáncer de mama: prevención y exámenes complementarios son claves para detectarlo a tiempo y salvar más vidas",
+    "category": "General",
+    "category_reason": "fallback:General",
+    "category_score": 0,
+    "category_hits": {},
+    "most_frequent_words": [
+      "ncer",
+      "mama",
+      "prevencio",
+      "exa",
+      "menes",
+      "complementarios",
+      "claves",
+      "detectarlo",
+      "tiempo",
+      "salvar",
+      "vidas"
+    ],
+    "entities": [],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "US_001.txt",
+    "title": "US rushes to shore up Gaza deal as fresh violence raises doubts",
+    "category": "General",
+    "category_reason": "fallback:General",
+    "category_score": 1,
+    "category_hits": {
+      "Business": [
+        "deal"
+      ],
+      "Technology": [
+        "ai"
+      ]
+    },
+    "most_frequent_words": [
+      "rushes",
+      "shore",
+      "gaza",
+      "deal",
+      "fresh",
+      "violence",
+      "raises",
+      "doubts"
+    ],
+    "entities": [],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "US_002.txt",
+    "title": "Poking around the scary, horrible, disgusting, excellent cauldron of new horror lit",
+    "category": "General",
+    "category_reason": "fallback:General",
+    "category_score": 0,
+    "category_hits": {},
+    "most_frequent_words": [
+      "poking",
+      "around",
+      "scary",
+      "horrible",
+      "disgusting",
+      "excellent",
+      "cauldron",
+      "new",
+      "horror",
+      "lit"
+    ],
+    "entities": [],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "US_003.txt",
+    "title": "Notre Dame’s win over USC propels them to another jump in the US LBM Coaches Poll",
+    "category": "General",
+    "category_reason": "fallback:General",
+    "category_score": 1,
+    "category_hits": {
+      "Politics": [
+        "poll"
+      ],
+      "Sports": [
+        "win"
+      ]
+    },
+    "most_frequent_words": [
+      "notre",
+      "dame",
+      "win",
+      "over",
+      "usc",
+      "propels",
+      "them",
+      "another",
+      "jump",
+      "lbm",
+      "coaches",
+      "poll"
+    ],
+    "entities": [
+      "Notre Dame",
+      "Coaches Poll"
+    ],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "US_004.txt",
+    "title": "Ukrainian drones strike major Russian gas plant, as Trump again says Kyiv may have to trade land for peace",
+    "category": "Technology",
+    "category_reason": "score>=2 (2)",
+    "category_score": 2,
+    "category_hits": {
+      "Technology": [
+        "ia",
+        "ai"
+      ]
+    },
+    "most_frequent_words": [
+      "ukrainian",
+      "drones",
+      "strike",
+      "major",
+      "russian",
+      "gas",
+      "plant",
+      "trump",
+      "again",
+      "says",
+      "kyiv",
+      "may"
+    ],
+    "entities": [],
+    "gpe": [],
+    "dates": []
+  },
+  {
+    "file": "US_005.txt",
+    "title": "Shinsuke Nakamura Reflects On Career, 'Sacred' Home Country Following WWE Japan Tour",
+    "category": "Sports",
+    "category_reason": "strong_keyword:win",
+    "category_score": 1,
+    "category_hits": {
+      "Sports": [
+        "win"
+      ],
+      "Culture/Entertainment": [
+        "tour"
+      ]
+    },
+    "most_frequent_words": [
+      "shinsuke",
+      "nakamura",
+      "reflects",
+      "career",
+      "sacred",
+      "home",
+      "country",
+      "following",
+      "wwe",
+      "japan",
+      "tour"
+    ],
+    "entities": [
+      "Shinsuke Nakamura Reflects On",
+      "Home Country Following",
+      "Japan Tour"
+    ],
+    "gpe": [
+      "japan"
+    ],
+    "dates": []
+  }
+]
